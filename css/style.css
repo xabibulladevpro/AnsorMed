@@ -14,6 +14,7 @@ img {
 }
 .box_header {
     padding: 20px 170px;
+    margin: auto;
     display: flex;
     justify-content: space-between;
     align-items: center;  
@@ -93,6 +94,7 @@ img {
     display: flex;
     justify-content: space-between;
     padding: 0 170px;
+    margin: auto;
     background-color: #0EB4C1;
 }
 .main .main_text h1 {
@@ -142,6 +144,7 @@ img {
 }
 .content {
     padding: 0 288px;
+    margin: auto;
 }
 .content h1{
     text-align: center;
